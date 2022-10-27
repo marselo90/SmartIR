@@ -55,7 +55,7 @@ media_player:
   - platform: smartir
     name: Living room TV
     unique_id: living_room_tv
-    device_code: 3000
+    device_code: 1021
     controller_data: home-assistant/living-room-tv/command
     power_sensor: binary_sensor.tv_power
 ```
