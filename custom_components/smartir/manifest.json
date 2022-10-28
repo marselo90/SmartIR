@@ -9,7 +9,7 @@
   "version": "1.17.6",
   "updater": {
     "version": "1.17.6",
-    "releaseNotes": "-- Removes legacy imports to the fan component",
+    "releaseNotes": "-- Removes legacy imports to the fan components",
     "files": [
       "__init__.py",
       "climate.py",
